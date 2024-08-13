@@ -27,8 +27,6 @@
 static const wifi_init_config_t wifi_init_config = WIFI_INIT_CONFIG_DEFAULT();
 static EventGroupHandle_t s_wifi_event_group;
 
-static door_t *food_door;
-static cbtn_t *control_button;
 static webpage_t webpage;
 static webserver_t webserver;
 
