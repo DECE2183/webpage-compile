@@ -1,0 +1,5 @@
+*.yaml
+*.bin
+
+webpage-compile
+*.exe
